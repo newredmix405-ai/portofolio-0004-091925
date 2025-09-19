@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Portofolio — Nama Anda</title>
+  <title>Portofolio — Nazho</title>
   <meta name="description" content="Portofolio sederhana: about, projects, contact" />
   <style>
     :root{--bg:#0f1724;--card:#0b1220;--muted:#98a0b3;--accent:#6ee7b7;--white:#eef2f6}
@@ -58,7 +58,7 @@
       <div class="brand">
         <div class="logo">NA</div>
         <div>
-          <div style="font-weight:800">Nama Anda</div>
+          <div style="font-weight:800">Nazho</div>
           <div class="small">Frontend Developer • Designer</div>
         </div>
       </div>
@@ -72,7 +72,7 @@
     <main>
       <section class="hero">
         <div class="intro card">
-          <h1>Halo — saya Nama Anda</h1>
+          <h1>Halo — saya Nazho</h1>
           <p>Saya pembuat antarmuka yang menyenangkan, membuat website yang sederhana, cepat, dan mudah digunakan. Saya suka membangun proyek yang memecahkan masalah nyata.</p>
           <div class="cta">
             <button class="btn btn-primary" onclick="document.getElementById('contact').scrollIntoView({behavior:'smooth'})">Hubungi saya</button>
@@ -87,8 +87,8 @@
           <div class="profile">
             <div class="avatar">ND</div>
             <div class="meta">
-              <div style="font-weight:700">Nama Anda</div>
-              <small class="muted">Jakarta, Indonesia • open to work</small>
+              <div style="font-weight:700">Nazho</div>
+              <small class="muted">Sukoharjo, Indonesia • open to work</small>
             </div>
           </div>
 
@@ -153,7 +153,7 @@
           <textarea id="message" rows="5" placeholder="Pesan" required></textarea>
           <div style="display:flex;gap:8px;align-items:center">
             <button class="btn btn-primary" type="submit">Kirim</button>
-            <div class="small muted">atau hubungi: <strong>email@contoh.com</strong></div>
+            <div class="small muted">atau hubungi: <strong>newredmix405@gmail.com</strong></div>
           </div>
         </form>
       </section>
@@ -161,7 +161,7 @@
     </main>
 
     <footer>
-      &copy; <span id="year"></span> Nama Anda — Dibuat dengan sederhana.
+      &copy; <span id="year"></span> Nazho — Dibuat dengan sederhana.
     </footer>
   </div>
 
@@ -179,7 +179,7 @@
         return;
       }
       // Tidak ada backend di contoh ini. Anda bisa sambungkan ke email/endpoint.
-      alert('Terima kasih, pesan Anda berhasil diproses (contoh).');
+      alert('Terima kasih, pesan Anda berhasil diproses (newremix405@gmail.com).');
       e.target.reset();
     }
   </script>
