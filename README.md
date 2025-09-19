@@ -14,7 +14,7 @@
     .brand{display:flex;gap:12px;align-items:center}
     .logo{width:48px;height:48px;border-radius:10px;background:linear-gradient(135deg,var(--accent),#60a5fa);display:flex;align-items:center;justify-content:center;color:#05201a;font-weight:700}
     nav a{color:var(--muted);text-decoration:none;margin-left:18px;font-weight:600}
-    nav a:hover{color:var(--white)}
+    nav a:hover{color:var(-white)}
 
     .hero{display:grid;grid-template-columns:1fr 380px;gap:28px;align-items:center;margin-bottom:28px}
     .intro h1{font-size:28px;margin:0 0 8px}
