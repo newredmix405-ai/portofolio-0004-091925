@@ -85,7 +85,7 @@
 
         <aside class="card">
           <div class="profile">
-            <div class="avatar">ND</div>
+            <div class="avatar">NZ</div>
             <div class="meta">
               <div style="font-weight:700">Nazho</div>
               <small class="muted">Sukoharjo, Indonesia • open to work</small>
